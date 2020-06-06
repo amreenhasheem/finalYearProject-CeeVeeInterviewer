@@ -19,7 +19,7 @@ Sublime Text - (https://www.sublimetext.com/3)
 
 ### 3. Type the following code:
       yarn install
-     *This will ready our package.json file and install all the components used in our project*
+*This will ready our package.json file and install all the components used in our project*     
 *Note:- The version of Node.js we have used is Node.js v12.14.0.  Please update to this version in your current version is lesser.*
 
 ### 4. Once the build is complete execute the following script in your terminal or cmd for the code to execute:
@@ -50,7 +50,7 @@ Sublime Text - (https://www.sublimetext.com/3)
       npm add express mysql cors
 ### 4. Run NodeJs server using nodemon:
       nodemon index.js
-        *It listening  on port 4000.....* 
+         
 
 
 # UNITY SETUP 
