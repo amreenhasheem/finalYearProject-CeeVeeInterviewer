@@ -8,9 +8,9 @@ CeeVee Interviewer - A software that eases mass recrutement process by automatin
 # ReactJS FRONTEND
 Download and install any editor of your choice (Visual studio code/ Sublime /Atom)
 The links for each are mentioned below :-
-Visual studio code - (https://code.visualstudio.com/download)
-Atom - (https://atom.io/)
-Sublime Text - (https://www.sublimetext.com/3)
+Visual studio code - https://code.visualstudio.com/download
+Atom - https://atom.io/
+Sublime Text - https://www.sublimetext.com/3
 
 ## Steps to set-up 
 ### 1. Clone Repository from the Github link
