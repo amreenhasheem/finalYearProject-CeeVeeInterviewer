@@ -8,11 +8,11 @@ CeeVee Interviewer - A software that eases mass recrutement process by automatin
 # ReactJS FRONTEND
 Download and install any editor of your choice (Visual studio code/ Sublime /Atom)
 The links for each are mentioned below :-
-Visual studio code - (https://code.visualstudio.com/download)
+Visual studio code - https://code.visualstudio.com/download
 
-Atom - (https://atom.io/)
+Atom - https://atom.io/
 
-Sublime Text - (https://www.sublimetext.com/3)
+Sublime Text - https://www.sublimetext.com/3
 
 ## Steps to set-up 
 ### 1. Clone Repository from the Github link
@@ -68,7 +68,7 @@ Sublime Text - (https://www.sublimetext.com/3)
 # SERVER SETUP 
 ## XAMPP Server Setup 
 
-### 1. Download and Install Xampp using this link - (https://www.apachefriends.org/download.html)
+### 1. Download and Install Xampp using this link - https://www.apachefriends.org/download.html
 
 ### 2. Put files in the htdocs/interviewapplication (Get the files from the Scripts folder)
 
@@ -78,7 +78,7 @@ Sublime Text - (https://www.sublimetext.com/3)
 
 ### 1. Make sure you have Python 3+ installed 
 
-### 2. Install flask and Speech Recognition . For more information on installing these libraries - (https://flask.palletsprojects.com/en/1.1.x/) and (https://pypi.org/project/SpeechRecognition/)
+### 2. Install flask and Speech Recognition . For more information on installing these libraries - https://flask.palletsprojects.com/en/1.1.x/ and https://pypi.org/project/SpeechRecognition/
 
 ### 3. Run the python file in Unity Assets\Assets\Plugins\Scripts folder using python IDLE
 
@@ -89,7 +89,7 @@ Sublime Text - (https://www.sublimetext.com/3)
 
 ### 2. Run the Application on unity.
 
-### 3. You can access the database in myphpadmin to view your responses. For more information on myphpadmin check out the link - (https://www.phpmyadmin.net)
+### 3. You can access the database in myphpadmin to view your responses. For more information on myphpadmin check out the link - https://www.phpmyadmin.net
 
 
 
