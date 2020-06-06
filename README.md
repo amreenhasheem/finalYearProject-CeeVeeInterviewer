@@ -8,9 +8,9 @@ CeeVee Interviewer - A software that eases mass recrutement process by automatin
 # ReactJS FRONTEND
 Download and install any editor of your choice (Visual studio code/ Sublime /Atom)
 The links for each are mentioned below :-
-Visual studio code - https://code.visualstudio.com/download
-Atom - https://atom.io/
-Sublime Text - https://www.sublimetext.com/3
+Visual studio code - (https://code.visualstudio.com/download)
+Atom - (https://atom.io/)
+Sublime Text - (https://www.sublimetext.com/3)
 
 ## Steps to set-up 
 ### 1. Clone Repository from the Github link
@@ -31,10 +31,10 @@ Sublime Text - https://www.sublimetext.com/3
 
 ### 1. Setting up MySQL workbench and get the database instance running:
   **Install MySQL workbench:**
-      sudo apt install mysql-workbench
+      `sudo apt install mysql-workbench`
 
   **Launch MySQL Workbench from the terminal**
-      mysql-workbench
+      `mysql-workbench`
 
   **Configure MySQL Workbench using interactive interface giving username and password**
 
@@ -44,12 +44,12 @@ Sublime Text - https://www.sublimetext.com/3
 
 
 ### 2. Open terminal and go to the directory where the project is cloned and run the following:
-      npm init -y 
+      `npm init -y` 
 
 ### 3. Install Express, link it to MySQL and allow cors policy:
-      npm add express mysql cors
+      `npm add express mysql cors`
 ### 4. Run NodeJs server using nodemon:
-      nodemon index.js
+      `nodemon index.js`
          
 
 
@@ -66,7 +66,7 @@ Sublime Text - https://www.sublimetext.com/3
 # SERVER SETUP 
 ## XAMPP Server Setup 
 
-### 1. Download and Install Xampp using this link - https://www.apachefriends.org/download.html
+### 1. Download and Install Xampp using this link - (https://www.apachefriends.org/download.html)
 
 ### 2. Put files in the htdocs/interviewapplication (Get the files from the Scripts folder)
 
@@ -76,7 +76,7 @@ Sublime Text - https://www.sublimetext.com/3
 
 ### 1. Make sure you have Python 3+ installed 
 
-### 2. Install flask and Speech Recognition . For more information on installing these libraries - https://flask.palletsprojects.com/en/1.1.x/ and https://pypi.org/project/SpeechRecognition/ 
+### 2. Install flask and Speech Recognition . For more information on installing these libraries - (https://flask.palletsprojects.com/en/1.1.x/) and (https://pypi.org/project/SpeechRecognition/)
 
 ### 3. Run the python file in Unity Assets\Assets\Plugins\Scripts folder using python IDLE
 
@@ -87,7 +87,7 @@ Sublime Text - https://www.sublimetext.com/3
 
 ### 2. Run the Application on unity.
 
-### 3. You can access the database in myphpadmin to view your responses. For more information on myphpadmin check out the link - https://www.phpmyadmin.net
+### 3. You can access the database in myphpadmin to view your responses. For more information on myphpadmin check out the link - (https://www.phpmyadmin.net)
 
 
 
