@@ -9,7 +9,9 @@ CeeVee Interviewer - A software that eases mass recrutement process by automatin
 Download and install any editor of your choice (Visual studio code/ Sublime /Atom)
 The links for each are mentioned below :-
 Visual studio code - (https://code.visualstudio.com/download)
+
 Atom - (https://atom.io/)
+
 Sublime Text - (https://www.sublimetext.com/3)
 
 ## Steps to set-up 
@@ -31,7 +33,7 @@ Sublime Text - (https://www.sublimetext.com/3)
 
 ### 1. Setting up MySQL workbench and get the database instance running:
   **Install MySQL workbench:**
-      `sudo apt install mysql-workbench`
+      ```sudo apt install mysql-workbench```
 
   **Launch MySQL Workbench from the terminal**
       `mysql-workbench`
@@ -44,12 +46,12 @@ Sublime Text - (https://www.sublimetext.com/3)
 
 
 ### 2. Open terminal and go to the directory where the project is cloned and run the following:
-      `npm init -y` 
+      npm init -y
 
 ### 3. Install Express, link it to MySQL and allow cors policy:
       `npm add express mysql cors`
 ### 4. Run NodeJs server using nodemon:
-      `nodemon index.js`
+      nodemon index.js
          
 
 
